@@ -150,7 +150,7 @@ Make sure `environmental_data.csv` is available in the project directory.
 
 **Your Name**
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/maniviswa06-ux
 
 ---
 
